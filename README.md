@@ -32,6 +32,7 @@ Este repositório contém uma aplicação utilizando **Spring Boot** como backen
   
 ## Observações
 
+-   Os detalhes sobre a dockerização da aplicação entá na pasta [prints](https://github.com/MiqueiasBento/MeuBolso-Docker/tree/main/prints) do repositório.
 -   O volume de dados do banco de dados é persistente por meio de volumes Docker configurados no arquivo `docker-compose.yml`.
 -   Para reconstruir os contêineres ou limpar dados, utilize:  
     `docker-compose down --volumes` 
