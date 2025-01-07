@@ -12,8 +12,7 @@ Este repositório contém uma aplicação utilizando **Spring Boot** como backen
 ## Como Executar
 
 1. **Clonar o repositório:**  
-   ``git clone <url-do-repositorio>``
-  ``cd <nome-do-repositorio>``
+   `git clone git@github.com:MiqueiasBento/MeuBolso-Docker.git`
 
 2.  **Subir os contêineres com Docker Compose:** Certifique-se de ter o Docker e o Docker Compose instalados no sistema.  
     `docker-compose up`
